@@ -1,0 +1,18 @@
+body{
+    background-color: #fff;
+    text-align: center;
+}
+h1{
+    font-size:30px;
+}
+.button {
+    border-radius: 100px;
+    width: 250px;
+    height: 100px;
+    cursor: pointer;
+    margin: 5px;
+}
+#beige { background-color: beige;}
+#pink { background-color: pink; }
+#skyBlue { background-color: skyblue; }
+#yellow { background-color: yellow; }
